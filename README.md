@@ -1,7 +1,8 @@
 ## 功能介绍 
 
 前后端完整代码包括大会资讯，参会流程，特邀嘉宾，会场信息，专题论坛，交流沙龙等功能，采用腾讯提供的小程序云开发解决方案，无须服务器和域名
-![输入图片说明](demo/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220227184844.png)
+ ![image](https://user-images.githubusercontent.com/100545532/155929721-77f6ad79-ec11-460e-9857-7146bd5439d7.png)
+
 
 ## 技术运用
 - 本项目使用微信小程序平台进行开发。
@@ -26,7 +27,7 @@
 
 ## 演示
  
-![输入图片说明](demo/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220227184844.png)
+![image](https://user-images.githubusercontent.com/100545532/155929738-6d2c525e-b365-4942-b2c0-9438a6495cbb.png)
 
 
 
@@ -38,21 +39,21 @@
 
 
 ## 截图
-![输入图片说明](demo/%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](demo/%E6%B2%99%E9%BE%99.png)
+![image](https://user-images.githubusercontent.com/100545532/155929754-a9d87abd-efad-4ffd-a11c-d9d1fe679c33.png)
+![image](https://user-images.githubusercontent.com/100545532/155929763-9eadac73-76a3-41f0-9d10-baf937fe2a61.png)
+![image](https://user-images.githubusercontent.com/100545532/155929767-730c6261-f72a-4bc3-b3fe-6bd2d0b7a8c3.png)
+![image](https://user-images.githubusercontent.com/100545532/155929775-01409620-2da0-49fa-ac47-3c7b97edd2d2.png)
+![image](https://user-images.githubusercontent.com/100545532/155929780-4cf00296-251f-43ac-addb-aff5cc8a101c.png)
+![image](https://user-images.githubusercontent.com/100545532/155929784-d4a4b893-85d2-45dc-80a8-6b16b360c763.png)
+![image](https://user-images.githubusercontent.com/100545532/155929791-9e97a603-38bc-4cb0-a227-2308f860f3ac.png)
+![image](https://user-images.githubusercontent.com/100545532/155929798-a3d7bdcd-ffe7-4cb6-9ad1-02114e63bb3d.png)
 
-![输入图片说明](demo/%E6%97%A5%E7%A8%8B.png)
-![输入图片说明](demo/%E8%B5%84%E8%AE%AF.png)
-![输入图片说明](demo/%E4%B8%93%E9%A2%98.png)
-![输入图片说明](demo/%E6%97%A5%E7%A8%8B.png)
-![输入图片说明](demo/%E8%B5%84%E8%AE%AF.png)
-![输入图片说明](demo/liucheng.png)
-![输入图片说明](demo/%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.png)
- 
+
 ## 后台截图
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0%E5%90%8D%E5%8D%95.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E6%97%B6%E6%AE%B5.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0%E6%97%B6%E9%97%B4%E8%AE%BE%E7%BD%AE.png)
- ![输入图片说明](demo/%E5%90%8E%E5%8F%B0%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E6%B7%BB%E5%8A%A0.png)
+ ![image](https://user-images.githubusercontent.com/100545532/155929818-da3f876a-f2a7-4161-a010-290df0568f8d.png)
+![image](https://user-images.githubusercontent.com/100545532/155929823-19ca77a3-823d-4c59-9681-3b04b92e23d4.png)
+![image](https://user-images.githubusercontent.com/100545532/155929834-b0f5280a-1a13-4c58-bb48-f7aa0ededd4f.png)
+![image](https://user-images.githubusercontent.com/100545532/155929808-ca8a5ad2-1918-480e-825c-6f49868e6eb5.png)
+![image](https://user-images.githubusercontent.com/100545532/155929811-855e3592-0216-40e4-9126-dfe66a8dc25c.png)
+
+ ![image](https://user-images.githubusercontent.com/100545532/155929803-6ae70b68-abe6-4399-a5e5-024e7d1bdc4a.png)
